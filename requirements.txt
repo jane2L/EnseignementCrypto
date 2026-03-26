@@ -2,6 +2,6 @@ gmpy2
 cryptography
 numpy
 matplotlib
-tkinter
 os
 cv2
+
