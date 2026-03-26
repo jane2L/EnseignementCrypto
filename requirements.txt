@@ -2,6 +2,5 @@ gmpy2
 cryptography
 numpy
 matplotlib
-os
 cv2
 
